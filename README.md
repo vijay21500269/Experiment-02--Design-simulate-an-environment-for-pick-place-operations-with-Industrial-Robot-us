@@ -102,7 +102,7 @@ raise Exception("""Your license does not allow generating programs with more tha
 ## SIMULATION:
 ![pic 1](https://github.com/vijay21500269/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/blob/main/Sim%201.jpeg)
 ![pic 2](https://github.com/vijay21500269/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/blob/main/sim%202.jpeg)
-![pic 3]()
+![pic 3](https://github.com/vijay21500269/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/blob/main/sim%203.jpeg)
 
  
  
